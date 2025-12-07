@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff000f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=143fc8&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff000f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Hiakewve+Santos+Alves;I+study+Information+Systems+at+UFS;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4878ed&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Hiakewve+Santos+Alves;I+study+Information+Systems+at+UFS;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Hiakewve&show_icons=true&count_private=true&hide_border=true&title_color=ff000f&icon_color=ff000f&text_color=c9d1d9&bg_color=0d1117" alt="Hiakewve Santos github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Hiakewve&layout=compact&hide_border=true&title_color=ff000f&text_color=ff000f&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Hiakewve&show_icons=true&count_private=true&hide_border=true&title_color=4878ed&icon_color=4878ed&text_color=c9d1d9&bg_color=0d1117" alt="Hiakewve Santos github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Hiakewve&layout=compact&hide_border=true&title_color=4878ed&text_color=4878ed&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiakewve&bg_color=000000&color=ff000f&line=ff000f&point=ff000f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiakewve&bg_color=000000&color=4878ed&line=4878ed&point=4878ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hiakewve&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -53,5 +53,5 @@
 <br></div> -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff000f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4878ed&height=120&section=footer"/>
 
