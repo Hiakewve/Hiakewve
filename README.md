@@ -14,44 +14,38 @@
   </a>
 </p>
 
+<!-- BOTÃO DO INSTAGRAM EM AZUL E SINTONIA COM A PALETA -->
 <div align="center">  
-<a href="https://www.instagram.com/hiakewvesantos?igsh=ejRsMTBmNWdzZzdm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.instagram.com/hiakewvesantos" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-4878ed?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </div> 
- 
-### Main skills:
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-<!-- ### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp; -->
-  
-### Studying in this moment:
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<!--<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hiakewve}/count.svg" /></p> 
-<br></div> -->
+<br>
 
+### 💻 Main skills:
+<p align="left">
+  <img src="https://img.shields.io/badge/C-4878ed?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-4878ed?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-4878ed?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-4878ed?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=143fc8&height=120&section=footer"/>
+### 🛠️ Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-4878ed?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-4878ed?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-4878ed?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-4878ed?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Office-4878ed?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+</p>
 
+### 📚 Studying in this moment:
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4878ed?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-4878ed?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-4878ed?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-4878ed?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=143fc8&height=120&section=footer"/>
