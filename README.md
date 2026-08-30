@@ -8,10 +8,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Hiakewve&layout=compact&hide_border=true&title_color=4878ed&text_color=4878ed&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiakewve&bg_color=000000&color=4878ed&line=4878ed&point=4878ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hiakewve&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph-one-snowy.vercel.app/graph?username=Hiakewve&bg_color=0d1117&color=4878ed&line=4878ed&point=ffffff&area=true&hide_border=true" width="100%" />
+  </a>
 </p>
 
 <div align="center">  
