@@ -36,16 +36,22 @@
   <img src="https://img.shields.io/badge/VS_Code-4878ed?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-4878ed?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-4878ed?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-4878ed?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-4878ed?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-4878ed?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Office-4878ed?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-4878ed?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 ### 📚 Studying in this moment:
 <p align="left">
+  <img src="https://img.shields.io/badge/C%23-4878ed?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-4878ed?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4878ed?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-4878ed?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-4878ed?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-4878ed?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-4878ed?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=143fc8&height=120&section=footer"/>
