@@ -14,12 +14,15 @@
   </a>
 </p>
 
-<!-- BOTÃO DO INSTAGRAM EM AZUL E SINTONIA COM A PALETA -->
-<div align="center">  
+<!-- BOTÃO DO INSTAGRAM E LINKEDIN EM AZUL E SINTONIA COM A PALETA -->
+<div align="center">    
   <a href="https://www.instagram.com/hiakewvesantos" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-4878ed?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div> 
+  <a href="https://www.linkedin.com/in/hiakewve-santos-alves-254139427" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4878ed?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 <br>
 
